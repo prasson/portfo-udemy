@@ -32,7 +32,7 @@ pyasn1-modules==0.2.8
 pyjokes==0.6.0
 PyJWT==1.7.1
 pyPdf==1.13
-PyPDF2==1.26.0
+PyPDF2==1.27.5
 PySocks==1.7.1
 pytz==2020.1
 PyYAML==5.3.1
